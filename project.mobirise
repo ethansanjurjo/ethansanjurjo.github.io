@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "EthanSanjurjo.com",
-    "currentPage": "index.html",
+    "currentPage": "illustrator.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -171,7 +171,7 @@
             }
           },
           "title": "Biography",
-          "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
+          "text": "The first time i worked on a graphic design program was in the 8th grade, and from then on ive been working with these programs. From then i have advaned my knowladge of these Programs and have evn earned certifications for them. At this same time i realized my interest in aviation and that it was something i wanted to turn into a career, since then i have flown a plane 4 times and hope to continue doing it throughout my life.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -196,7 +196,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": 4,
+            "columns": "4",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
@@ -215,7 +215,7 @@
               "color": "#000000"
             }
           },
-          "title1": "Bootstrap 4",
+          "title1": "goal 1",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -649,16 +649,6 @@
                 "active": false
               },
               {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/ethan-sanjurjo-vintage-television-2000x1500-68-800x600-48.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ethan-sanjurjo-vintage-television-2000x1500-68.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -669,49 +659,32 @@
                 "active": false
               },
               {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Beautiful",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
-                "caption": "Type caption here"
-              },
-              {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/ethan-sanjurjo-poster-2000x2962-800x1184.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ethan-sanjurjo-poster-2000x2962.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1463717993767-4ded88224b61-2000x1333-41-800x533-11.jpg",
-                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1463717993767-4ded88224b61-2000x1333-41.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ethan-sanjurjo-2-2000x2962-800x1184.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ethan-sanjurjo-2-2000x2962.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ethan-sanjurjo-vintage-television-2000x1500-68-800x600-48.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ethan-sanjurjo-vintage-television-2000x1500-68.jpg",
                 "caption": "Type caption here",
                 "active": false
               }
