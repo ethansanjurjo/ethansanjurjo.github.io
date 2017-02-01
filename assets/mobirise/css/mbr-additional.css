@@ -482,6 +482,9 @@ h6,
 #header3-1t .mbr-section-subtitle {
   text-align: center;
 }
+#header3-1t H3 {
+  text-align: right;
+}
 #features6-1g H4 {
   text-align: center;
   font-size: 17px;
