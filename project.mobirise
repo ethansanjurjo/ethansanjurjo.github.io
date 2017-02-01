@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "EthanSanjurjo.com",
-    "currentPage": "index.html",
+    "currentPage": "illustrator.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 66,
+    "uniqCompNum": 68,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -570,13 +570,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -708,13 +708,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -790,36 +790,47 @@
             "showButtons": false
           },
           "title": "Adobe Illustrator",
-          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "gallery1",
+          "_name": "header3",
+          "_anchor": "header3-1v",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Posters",
+          "meta": ""
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "2",
             "images": [
               {
-                "tags": "Awesome",
+                "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/riddles-with-reese-title-2000x1125-16-800x450-41.jpg",
-                "image": "@PROJECT_PATH@/assets/images/riddles-with-reese-title-2000x1125-16.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mpop-poster-2000x2962-800x1184.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mpop-poster-2000x2962.jpg",
-                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mpop-poster-2000x2962-99-800x1184-98-800x1184.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mpop-poster-2000x2962-99-800x1184-98.jpg",
+                "caption": "Junior Year&nbsp;",
                 "active": false
               },
               {
@@ -829,41 +840,41 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/ethan-sanjurjo-poster-2000x2962-800x1184.jpg",
                 "image": "@PROJECT_PATH@/assets/images/ethan-sanjurjo-poster-2000x2962.jpg",
-                "caption": "Type caption here",
+                "caption": "Junior Year",
                 "active": false
               },
               {
-                "tags": "Awesome",
+                "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/ethan-sanjurjo-2-2000x2962-800x1184.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ethan-sanjurjo-2-2000x2962.jpg",
-                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/ethan-sanjurjo-2-2000x2962-800x1184-800x1184.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ethan-sanjurjo-2-2000x2962-800x1184.jpg",
+                "caption": "Sophmore Year",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ethan-sanjurjomas-filler-panel-2000x2962-800x1184.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ethan-sanjurjomas-filler-panel-2000x2962.jpg",
+                "caption": "Sophmore Year",
                 "active": true
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/ethan-sanjurjo-vintage-television-2000x1500-68-800x600-48.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ethan-sanjurjo-vintage-television-2000x1500-68.jpg",
-                "caption": "Type caption here",
-                "active": false
               }
             ],
-            "spacing": "0",
-            "showText": false,
+            "spacing": "1",
+            "showText": true,
             "filter": false,
-            "bgColor": "#ffffff",
+            "bgColor": "fff",
             "filterBgColor": false,
             "fullWidth": false,
-            "showBullets": true
+            "showBullets": false
           },
-          "_anchor": "gallery1-a",
+          "_anchor": "gallery2-1u",
           "articleLayout": false,
-          "allItem": "All"
+          "allItem": "Posters"
         },
         {
           "_tags": [
@@ -2524,42 +2535,44 @@
             "paddingBottom": "3",
             "images": [
               {
-                "tags": "Awesome",
+                "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/illustrator-certification-2000x1444-800x577.jpg",
-                "image": "@PROJECT_PATH@/assets/images/illustrator-certification-2000x1444.jpg",
-                "caption": "Adobe Illustrator",
-                "active": true
+                "thumb": "@PROJECT_PATH@/assets/images/mpop-poster-2000x2962-99-800x1184-98-800x1184.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mpop-poster-2000x2962-99-800x1184-98.jpg",
+                "caption": "Junior Year&nbsp;",
+                "active": false
               },
               {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-                "caption": "Adobe Photoshop"
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-                "caption": "Adobe Premiere Pro"
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-                "caption": "Adobe Animater",
+                "thumb": "@PROJECT_PATH@/assets/images/ethan-sanjurjo-poster-2000x2962-800x1184.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ethan-sanjurjo-poster-2000x2962.jpg",
+                "caption": "Junior Year",
                 "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ethan-sanjurjo-2-2000x2962-800x1184-800x1184.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ethan-sanjurjo-2-2000x2962-800x1184.jpg",
+                "caption": "Sophmore Year",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ethan-sanjurjomas-filler-panel-2000x2962-800x1184.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ethan-sanjurjomas-filler-panel-2000x2962.jpg",
+                "caption": "Sophmore Year",
+                "active": true
               }
             ],
             "spacing": "1",
