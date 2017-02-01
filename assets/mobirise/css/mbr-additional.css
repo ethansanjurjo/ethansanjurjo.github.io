@@ -627,6 +627,10 @@ h6,
 #header3-1v .mbr-section-subtitle {
   text-align: center;
 }
+#header3-1y .mbr-section-title,
+#header3-1y .mbr-section-subtitle {
+  text-align: center;
+}
 #contacts1-4 P {
   text-align: center;
 }
