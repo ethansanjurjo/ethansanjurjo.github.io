@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "EthanSanjurjo.com",
-    "currentPage": "certifications.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 64,
+    "uniqCompNum": 66,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -173,6 +173,26 @@
           "title": "Biography",
           "text": "The first time i worked on a graphic design program was in the 8th grade, and from then on ive been working with these programs. From then i have advaned my knowledge of these Programs and have evn earned certifications for them. At this same time i realized my interest in aviation and that it was something i wanted to turn into a career, since then i have flown a plane 4 times and hope to continue doing it throughout my life.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#content1-1i\" data-toolbar=\"-mbrBtnMove\">Bio Cont.</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1t",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "My Life Goals",
+          "meta": ""
         },
         {
           "_inherit": "features3",
