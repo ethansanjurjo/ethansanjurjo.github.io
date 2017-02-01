@@ -358,7 +358,7 @@
           "_anchor": "content1-1i",
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingBottom": "2",
             "bgColor": "#fff"
           },
           "text": "In my second year of high school I earned my first industry certification for adobe illustrator and from then continued working to master the program, and now i am working on my second certification for adobe photoshop. I am also continuing my passion for aviation and still going up and flying on certain days."
