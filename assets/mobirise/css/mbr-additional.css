@@ -627,8 +627,14 @@ h6,
 #header3-1v .mbr-section-subtitle {
   text-align: center;
 }
+#gallery2-1u .mbr-gallery-item > div > span {
+  text-align: center;
+}
 #header3-1y .mbr-section-title,
 #header3-1y .mbr-section-subtitle {
+  text-align: center;
+}
+#gallery2-1w .mbr-gallery-item > div > span {
   text-align: center;
 }
 #contacts1-4 P {
