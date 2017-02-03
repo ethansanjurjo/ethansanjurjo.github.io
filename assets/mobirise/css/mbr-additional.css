@@ -490,9 +490,15 @@ h6,
   font-size: 17px;
   color: #000000;
 }
+#features6-1g P {
+  text-align: left;
+}
 #header3-1e .mbr-section-title,
 #header3-1e .mbr-section-subtitle {
   text-align: center;
+}
+#content6-24 P {
+  text-align: left;
 }
 #contacts1-4 P {
   text-align: center;
@@ -623,15 +629,7 @@ h6,
 #ext_menu-5 .dropdown-item[aria-expanded="true"] {
   color: #ff0400!important;
 }
-#header3-1v .mbr-section-title,
-#header3-1v .mbr-section-subtitle {
-  text-align: center;
-}
 #gallery2-1u .mbr-gallery-item > div > span {
-  text-align: center;
-}
-#header3-1y .mbr-section-title,
-#header3-1y .mbr-section-subtitle {
   text-align: center;
 }
 #gallery2-1w .mbr-gallery-item > div > span {
