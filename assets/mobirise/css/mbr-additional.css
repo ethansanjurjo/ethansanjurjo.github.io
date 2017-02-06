@@ -493,9 +493,12 @@ h6,
 #features6-1g P {
   text-align: left;
 }
-#header3-1e .mbr-section-title,
-#header3-1e .mbr-section-subtitle {
+#header3-27 .mbr-section-title,
+#header3-27 .mbr-section-subtitle {
   text-align: center;
+}
+#header3-27 H3 {
+  text-align: right;
 }
 #content6-24 P {
   text-align: left;

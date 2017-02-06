@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 78,
+    "uniqCompNum": 80,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -172,7 +172,7 @@
           },
           "title": "Biography",
           "text": "The first time i worked on a graphic design program was in the 8th grade, and from then on ive been working with these programs. From then i have advaned my knowledge of these Programs and have evn earned certifications for them. At this same time i realized my interest in aviation and that it was something i wanted to turn into a career, since then i have flown a plane 4 times and hope to continue doing it throughout my life.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#content1-1i\" data-toolbar=\"-mbrBtnMove\">Bio Cont.</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#header3-27\" data-toolbar=\"-mbrBtnMove\">Bio Cont.</a>"
         },
         {
           "_styles": {
@@ -249,9 +249,9 @@
               "newWindow": false
             }
           },
-          "title1": "Become a Commercial Pilot",
+          "title1": "Promote to officer in CAP",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Ever since i was a kid i was interested in aviation<br>and after going up in a plane and flying i know i want this to become my career which is why i listed it as one of my goals.",
+          "caption1": "My current rank in Civil Air Patrol is Cadet Airmen First Class. My Goal is to achieve the rank of Cadet 2nd Lt, once achieving that rank i can earn scholarships through civil air patrol to help pay for my education and other activities, This rank will also give me an important leadership position in the squadron. ",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -266,9 +266,9 @@
               "newWindow": false
             }
           },
-          "title2": "Graduate From a 4-year University&nbsp;",
+          "title2": "Earn My Private Pilot's License",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "My Parents never graduated a 4-year university<br>and&nbsp;are no longer doing what they went to school to sudy so i want to make them happy and go to school and graduate.",
+          "caption2": "The next step for my aviation career path is to earn my private pilot's lecense. Earning this will be a huge accomplishment since it will reduce costs if i earn it before i go to an aviation university. it will also allow me to fly by myself, and continue my training to eventually become a commercial airline pilot&nbsp;",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -283,9 +283,9 @@
               "newWindow": false
             }
           },
-          "title3": "Earn Certifications for three adobe programs",
+          "title3": "Graduate From a 4-year University",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "I have already earned a certification for adobe illustrator, i hope to continue learning more about &nbsp;the othe programs and earn certifications for atleast two more.&nbsp;",
+          "caption3": "My Parents never graduated a 4-year university and are no longer doing what they went to school to sudy so i want to make them happy and go to school and graduate.&nbsp;",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -300,9 +300,9 @@
               "newWindow": false
             }
           },
-          "title4": "Promote to officer in CAP",
+          "title4": "Become a Commercial Pilot",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "My current rank in Civil Air Patrol is Cadet Airmen First Class. My Goal is to achieve the rank of Cadet 2nd Lt, once achieving that rank i can earn scholarships through civil air patrol to help pay for my education and other activities, This rank will also give me an important leadership position in the squadron.&nbsp;",
+          "caption4": "Ever since i was a kid i was interested in aviation and after going up in a plane and flying i know i want this to become my career which is why i listed it as one of my goals.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
@@ -314,9 +314,9 @@
               "family": "et-line"
             }
           },
-          "title5": "Trendy Website Blocks",
+          "title5": "Become a Commercial Pilot",
           "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "caption5": "Ever since i was a kid i was interested in aviation and after going up in a plane and flying i know i want this to become my career which is why i listed it as one of my goals.",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
             "iconFont": {
@@ -337,20 +337,23 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            "H3": {
+              "text-align": "right"
             }
           },
           "_tags": [
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-1e",
+          "_anchor": "header3-27",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "Biography Cont.",
+          "title": "Bio Cont.",
           "meta": ""
         },
         {
@@ -358,6 +361,11 @@
             "Theme"
           ],
           "_name": "content6",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "content6-24",
           "_params": {
             "paddingTop": 1,
@@ -365,12 +373,7 @@
             "bgColor": "#fff"
           },
           "text1": "<p>In my second year of high school I earned my first industry certification for adobe illustrator and from then continued working to master the program, and now i am working on my second certification for adobe photoshop. I am also continuing my passion for aviation and still going up and flying on certain days. Besides Flying and school i also am a member of Civil Air Patrol an auxiliary of the united states air force. There i learn and practice leadership skills, and help assist new cadets excel in their training.</p>",
-          "text2": "After along week of school and after doing all my responsibilities in Civil Air Patrol, i like to give myself some freetime to take a break from the world. Some of my favorite things to do during my freetime is hangout with my friends, play video games, and watch movies with my family. My favorite movie is Star Wars: The Empire Strikes Back, my favorite segment of the movie is the battle of hoth. Some of my other favorite movies are Alien, Jurassic Park, Split, and Fight Club.",
-          "_styles": {
-            "P": {
-              "text-align": "left"
-            }
-          }
+          "text2": "After along week of school and after doing all my responsibilities in Civil Air Patrol, i like to give myself some freetime to take a break from the world. Some of my favorite things to do during my freetime is hangout with my friends, play video games, and watch movies with my family. My favorite movie is Star Wars: The Empire Strikes Back, my favorite segment of the movie is the battle of hoth. Some of my other favorite movies are Alien, Jurassic Park, Split, and Fight Club."
         },
         {
           "_tags": [
@@ -832,6 +835,11 @@
             "Theme"
           ],
           "_name": "gallery2",
+          "_styles": {
+            ".mbr-gallery-item > div > span": {
+              "text-align": "center"
+            }
+          },
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "0",
@@ -887,12 +895,7 @@
           },
           "_anchor": "gallery2-1u",
           "articleLayout": false,
-          "allItem": "Posters",
-          "_styles": {
-            ".mbr-gallery-item > div > span": {
-              "text-align": "center"
-            }
-          }
+          "allItem": "Posters"
         },
         {
           "_inherit": "gallery1",
@@ -900,6 +903,11 @@
             "Theme"
           ],
           "_name": "gallery2",
+          "_styles": {
+            ".mbr-gallery-item > div > span": {
+              "text-align": "center"
+            }
+          },
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "4",
@@ -990,12 +998,7 @@
           },
           "_anchor": "gallery2-1w",
           "articleLayout": false,
-          "allItem": "All",
-          "_styles": {
-            ".mbr-gallery-item > div > span": {
-              "text-align": "center"
-            }
-          }
+          "allItem": "All"
         },
         {
           "_tags": [
