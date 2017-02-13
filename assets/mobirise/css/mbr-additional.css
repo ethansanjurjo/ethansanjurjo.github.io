@@ -478,6 +478,12 @@ h6,
 #ext_menu-0 .dropdown-item[aria-expanded="true"] {
   color: #ff0400!important;
 }
+#msg-box4-2b H3 {
+  color: #000000;
+}
+#msg-box4-2b P {
+  color: #000000;
+}
 #header3-1t .mbr-section-title,
 #header3-1t .mbr-section-subtitle {
   text-align: center;
@@ -1095,79 +1101,4 @@ h6,
 }
 #contacts1-17 P {
   text-align: center;
-}
-#ext_menu-1m .hide-buttons .nav-btn {
-  display: none !important;
-}
-#ext_menu-1m .navbar-caption {
-  color: #ffffff;
-}
-#ext_menu-1m .navbar-toggler {
-  color: #ffffff;
-}
-#ext_menu-1m .close-icon::before,
-#ext_menu-1m .close-icon::after {
-  background-color: #ffffff;
-}
-#ext_menu-1m .link,
-#ext_menu-1m .dropdown-item {
-  color: #ffffff;
-}
-#ext_menu-1m .link {
-  font-size: 0.75rem;
-}
-#ext_menu-1m .dropdown-item,
-#ext_menu-1m .nav-dropdown-sm .link {
-  font-size: 0.812rem;
-}
-#ext_menu-1m .link:hover,
-#ext_menu-1m .dropdown-item:hover,
-#ext_menu-1m .link:focus,
-#ext_menu-1m .dropdown-item:focus {
-  color: #ff0400;
-}
-#ext_menu-1m .link[aria-expanded="true"],
-#ext_menu-1m .dropdown-menu {
-  background: #000000;
-}
-#ext_menu-1m .nav-dropdown-sm .link:focus,
-#ext_menu-1m .nav-dropdown-sm .link:hover,
-#ext_menu-1m .nav-dropdown-sm .dropdown-item:focus,
-#ext_menu-1m .nav-dropdown-sm .dropdown-item:hover {
-  background: #000000!important;
-}
-#ext_menu-1m .navbar,
-#ext_menu-1m .nav-dropdown-sm,
-#ext_menu-1m .nav-dropdown-sm .link[aria-expanded="true"],
-#ext_menu-1m .nav-dropdown-sm .dropdown-menu {
-  background: #000000;
-}
-#ext_menu-1m .bg-color.transparent .link {
-  color: #ffffff;
-  transition: none;
-}
-#ext_menu-1m .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#ext_menu-1m .bg-color.transparent.opened .link:hover,
-#ext_menu-1m .bg-color.transparent.opened .link:focus {
-  color: #ff0400;
-}
-#ext_menu-1m .link[aria-expanded="true"],
-#ext_menu-1m .dropdown-item[aria-expanded="true"] {
-  color: #ff0400!important;
-}
-#header5-1o .mbr-section-title {
-  color: #ffffff;
-}
-#header5-1o .mbr-section-lead {
-  color: #ffffff;
-}
-#header3-1r .mbr-section-title,
-#header3-1r .mbr-section-subtitle {
-  text-align: center;
-}
-#contacts1-1n P {
-  text-align: center;
-  color: #ffffff;
 }
