@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "EthanSanjurjo.com",
-    "currentPage": "index.html",
+    "currentPage": "photoshop.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -148,7 +148,7 @@
             "showButtons": false
           },
           "title": "Ethan Sanjurjo",
-          "text": "There's simply no substitute for experience in terms of aviation safety.&nbsp;<br>- Captain Chesley Sullenberger<br><br>",
+          "text": "\"There's simply no substitute for experience in terms of aviation safety.\"&nbsp;<br>- Captain Chesley Sullenberger<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
@@ -157,6 +157,14 @@
             "Theme"
           ],
           "_name": "msg-box4",
+          "_styles": {
+            "H3": {
+              "color": "#000000"
+            },
+            "P": {
+              "color": "#000000"
+            }
+          },
           "_anchor": "msg-box4-2b",
           "_params": {
             "imageSize": 50,
@@ -203,15 +211,7 @@
           },
           "title": "Biography",
           "text": "<p>The first time i worked on a graphic design program was in the 8th grade, and from then on ive been working with these programs. From then i have advaned my knowledge of these Programs and have evn earned certifications for them. At this same time i realized my interest in aviation and that it was something i wanted to turn into a career, since then i have flown a plane 4 times and hope to continue doing it throughout my life.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#content6-24\" data-toolbar=\"-mbrBtnMove\">Bio Cont.</a>",
-          "_styles": {
-            "H3": {
-              "color": "#000000"
-            },
-            "P": {
-              "color": "#000000"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#content6-24\" data-toolbar=\"-mbrBtnMove\">Bio Cont.</a>"
         },
         {
           "_styles": {
@@ -1232,7 +1232,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/adobe-animate-1400x563.jpg",
+              "src": "@PROJECT_PATH@/assets/images/photoshop-logo-1400x787.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1518,7 +1518,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/adobe-animate-1400x563.jpg",
+              "src": "@PROJECT_PATH@/assets/images/premiere-pro-1400x787.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -2376,7 +2376,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/blog-excel-logo-1400x739.png",
+              "src": "@PROJECT_PATH@/assets/images/powerpoint-logo-1400x408.jpg",
               "link": "",
               "alt": "",
               "title": "",
