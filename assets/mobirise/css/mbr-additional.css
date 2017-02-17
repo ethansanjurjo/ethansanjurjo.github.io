@@ -513,6 +513,10 @@ h6,
   text-align: center;
   color: #ffffff;
 }
+#msg-box5-2l H3 {
+  text-align: right;
+  font-size: 60px;
+}
 #ext_menu-14 .hide-buttons .nav-btn {
   display: none !important;
 }
