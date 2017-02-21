@@ -478,16 +478,14 @@ h6,
 #ext_menu-0 .dropdown-item[aria-expanded="true"] {
   color: #ff0400!important;
 }
-#form1-32 .form-control-label {
-  color: #232323;
+#content8-39 .mbr-section-title,
+#content8-39 p {
+  text-align: right;
+  color: #fff;
 }
 #social-buttons4-33 .mbr-section-title,
 #social-buttons4-33 .btn-social {
   color: #fff;
-}
-#contacts1-4 P {
-  text-align: center;
-  color: #ffffff;
 }
 #msg-box5-2l H3 {
   text-align: right;
