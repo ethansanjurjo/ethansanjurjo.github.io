@@ -688,6 +688,10 @@ h6,
 #ext_menu-c .dropdown-item[aria-expanded="true"] {
   color: #ff0400!important;
 }
+#header3-36 .mbr-section-title,
+#header3-36 .mbr-section-subtitle {
+  text-align: center;
+}
 #contacts1-4 P {
   text-align: center;
 }
