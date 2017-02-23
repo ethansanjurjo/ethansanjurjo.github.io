@@ -213,7 +213,7 @@
           "_anchor": "features3-3a",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": 2,
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -365,7 +365,7 @@
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayColor": "#000000"
           },
           "text1": "<strong>Address</strong><br>\n3041 Sw 112 ave <br>\n33165 miami, FL<br><br><br>\n<strong>Contacts</strong><br>\nEmail: Ethansanjurjo@gmail.com<br>Phone: (786)-520-7956<br><br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://mas.dadeschools.net/\">Mas.dadeschools.net</a></li></ul>",
@@ -577,7 +577,7 @@
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayColor": "#000000"
           },
           "text1": "<strong>Address</strong><br>\n3041 Sw 112 ave <br>\n33165 miami, FL<br><br><br>\n<strong>Contacts</strong><br>\nEmail: Ethansanjurjo@gmail.com<br>Phone: (786)-520-7956<br>\nFax: +1 (0) 000 0000 002",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://mas.dadeschools.net/\">Mas.dadeschools.net</a></li></ul>",
@@ -1078,7 +1078,7 @@
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayColor": "#000000"
           },
           "text1": "<strong>Address</strong><br>\n3041 Sw 112 ave <br>\n33165 miami, FL<br><br><br>\n<strong>Contacts</strong><br>\nEmail: Ethansanjurjo@gmail.com<br>Phone: (786)-520-7956<br>\nFax: +1 (0) 000 0000 002",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://mas.dadeschools.net/\">Mas.dadeschools.net</a></li></ul>",
@@ -1516,7 +1516,7 @@
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayColor": "#000000"
           },
           "text1": "<strong>Address</strong><br>\n3041 Sw 112 ave <br>\n33165 miami, FL<br><br><br>\n<strong>Contacts</strong><br>\nEmail: Ethansanjurjo@gmail.com<br>Phone: (786)-520-7956<br>\nFax: +1 (0) 000 0000 002",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://mas.dadeschools.net/\">Mas.dadeschools.net</a></li></ul>",
@@ -1829,7 +1829,7 @@
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayColor": "#000000"
           },
           "text1": "<strong>Address</strong><br>\n3041 Sw 112 ave <br>\n33165 miami, FL<br><br><br>\n<strong>Contacts</strong><br>\nEmail: Ethansanjurjo@gmail.com<br>Phone: (786)-520-7956<br>\nFax: +1 (0) 000 0000 002",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://mas.dadeschools.net/\">Mas.dadeschools.net</a></li></ul>",
@@ -2142,7 +2142,7 @@
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayColor": "#000000"
           },
           "text1": "<strong>Address</strong><br>\n3041 Sw 112 ave <br>\n33165 miami, FL<br><br><br>\n<strong>Contacts</strong><br>\nEmail: Ethansanjurjo@gmail.com<br>Phone: (786)-520-7956<br>\nFax: +1 (0) 000 0000 002",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://mas.dadeschools.net/\">Mas.dadeschools.net</a></li></ul>",
@@ -2455,7 +2455,7 @@
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayColor": "#000000"
           },
           "text1": "<strong>Address</strong><br>\n3041 Sw 112 ave <br>\n33165 miami, FL<br><br><br>\n<strong>Contacts</strong><br>\nEmail: Ethansanjurjo@gmail.com<br>Phone: (786)-520-7956<br>\nFax: +1 (0) 000 0000 002",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://mas.dadeschools.net/\">Mas.dadeschools.net</a></li></ul>",
@@ -2768,7 +2768,7 @@
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayColor": "#000000"
           },
           "text1": "<strong>Address</strong><br>\n3041 Sw 112 ave <br>\n33165 miami, FL<br><br><br>\n<strong>Contacts</strong><br>\nEmail: Ethansanjurjo@gmail.com<br>Phone: (786)-520-7956<br>\nFax: +1 (0) 000 0000 002",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://mas.dadeschools.net/\">Mas.dadeschools.net</a></li></ul>",
@@ -3081,7 +3081,7 @@
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayColor": "#000000"
           },
           "text1": "<strong>Address</strong><br>\n3041 Sw 112 ave <br>\n33165 miami, FL<br><br><br>\n<strong>Contacts</strong><br>\nEmail: Ethansanjurjo@gmail.com<br>Phone: (786)-520-7956<br>\nFax: +1 (0) 000 0000 002",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://mas.dadeschools.net/\">Mas.dadeschools.net</a></li></ul>",
@@ -3512,7 +3512,7 @@
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayColor": "#000000"
           },
           "text1": "<strong>Address</strong><br>\n3041 Sw 112 ave <br>\n33165 miami, FL<br><br><br>\n<strong>Contacts</strong><br>\nEmail: Ethansanjurjo@gmail.com<br>Phone: (786)-520-7956<br>\nFax: +1 (0) 000 0000 002",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://mas.dadeschools.net/\">Mas.dadeschools.net</a></li></ul>",
