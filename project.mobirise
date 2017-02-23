@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "EthanSanjurjo.com",
-    "currentPage": "illustrator.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -92,14 +92,14 @@
           "_anchor": "ext_menu-0",
           "_params": {
             "bgColor": "#000000",
-            "fontSize": 0.75,
+            "fontSize": "0.75",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": true
           },
@@ -119,7 +119,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ethan Sanjurjo</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Introduction.html\"><p>INTRODUCTION</p></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"photoshop.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Photoshop</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Gallery</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premierepro.html\">Adobe Premiere Pro</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"animate.html\">Adobe Animate</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Microsoft Office 2016</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MS Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"word.html\">Gallery<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://ethansanjurjo.github.io/Documents/Ethan Sanjurjo Discuss it 6.pdf\" target=\"_blank\">Discuss it&nbsp;<br></a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"powerpoint.html\">MS PowerPoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"excel.html\">MS Excel</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123d.html\" aria-expanded=\"false\">123D Design</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"certifications.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Photoshop</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Resume</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">REFERENCES</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Teacher Letters</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher 4</a></div></div></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">Buy</a></li>"
         },
         {
@@ -652,14 +652,14 @@
           "_anchor": "ext_menu-14",
           "_params": {
             "bgColor": "#000000",
-            "fontSize": 0.75,
+            "fontSize": "0.75",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": true
           },
@@ -679,7 +679,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ethan Sanjurjo</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Introduction.html\"><p>INTRODUCTION</p></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"photoshop.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Photoshop</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Gallery</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premierepro.html\">Adobe Premiere Pro</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"animate.html\">Adobe Animate</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Microsoft Office 2016</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MS Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"word.html\">Gallery<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://ethansanjurjo.github.io/Documents/Ethan Sanjurjo Discuss it 6.pdf\" target=\"_blank\">Discuss it&nbsp;<br></a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"powerpoint.html\">MS PowerPoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"excel.html\">MS Excel</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123d.html\" aria-expanded=\"false\">123D Design</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"certifications.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Photoshop</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Resume</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">REFERENCES</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Teacher Letters</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher 4</a></div></div></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">Buy</a></li>"
         },
         {
@@ -767,14 +767,14 @@
           "_anchor": "ext_menu-5",
           "_params": {
             "bgColor": "#000000",
-            "fontSize": 0.75,
+            "fontSize": "0.75",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": true
           },
@@ -784,7 +784,7 @@
               "src": "@PROJECT_PATH@/assets/images/website-logo-128x128-89.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -794,7 +794,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ethan Sanjurjo</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Introduction.html\"><p>INTRODUCTION</p></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"photoshop.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Photoshop</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Gallery</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premierepro.html\">Adobe Premiere Pro</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"animate.html\">Adobe Animate</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Microsoft Office 2016</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MS Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"word.html\">Gallery<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://ethansanjurjo.github.io/Documents/Ethan Sanjurjo Discuss it 6.pdf\" target=\"_blank\">Discuss it&nbsp;<br></a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"powerpoint.html\">MS PowerPoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"excel.html\">MS Excel</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123d.html\" aria-expanded=\"false\">123D Design</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"certifications.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Photoshop</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Resume</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">REFERENCES</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Teacher Letters</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher 4</a></div></div></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">Buy</a></li>"
         },
         {
@@ -1180,14 +1180,14 @@
           "_anchor": "ext_menu-c",
           "_params": {
             "bgColor": "#000000",
-            "fontSize": 0.75,
+            "fontSize": "0.75",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": true
           },
@@ -1207,7 +1207,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ethan Sanjurjo</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Introduction.html\"><p>INTRODUCTION</p></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"photoshop.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Photoshop</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Gallery</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premierepro.html\">Adobe Premiere Pro</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"animate.html\">Adobe Animate</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Microsoft Office 2016</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MS Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"word.html\">Gallery<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://ethansanjurjo.github.io/Documents/Ethan Sanjurjo Discuss it 6.pdf\" target=\"_blank\">Discuss it&nbsp;<br></a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"powerpoint.html\">MS PowerPoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"excel.html\">MS Excel</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123d.html\" aria-expanded=\"false\">123D Design</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"certifications.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Photoshop</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Resume</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">REFERENCES</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Teacher Letters</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher 4</a></div></div></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">Buy</a></li>"
         },
         {
@@ -1618,14 +1618,14 @@
           "_anchor": "ext_menu-f",
           "_params": {
             "bgColor": "#000000",
-            "fontSize": 0.75,
+            "fontSize": "0.75",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": true
           },
@@ -1645,7 +1645,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ethan Sanjurjo</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Introduction.html\"><p>INTRODUCTION</p></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"photoshop.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Photoshop</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Gallery</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premierepro.html\">Adobe Premiere Pro</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"animate.html\">Adobe Animate</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Microsoft Office 2016</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MS Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"word.html\">Gallery<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://ethansanjurjo.github.io/Documents/Ethan Sanjurjo Discuss it 6.pdf\" target=\"_blank\">Discuss it&nbsp;<br></a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"powerpoint.html\">MS PowerPoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"excel.html\">MS Excel</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123d.html\" aria-expanded=\"false\">123D Design</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"certifications.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Photoshop</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Resume</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">REFERENCES</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Teacher Letters</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher 4</a></div></div></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">Buy</a></li>"
         },
         {
@@ -1931,14 +1931,14 @@
           "_anchor": "ext_menu-n",
           "_params": {
             "bgColor": "#000000",
-            "fontSize": 0.75,
+            "fontSize": "0.75",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": true
           },
@@ -1958,7 +1958,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ethan Sanjurjo</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Introduction.html\"><p>INTRODUCTION</p></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"photoshop.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Photoshop</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Gallery</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premierepro.html\">Adobe Premiere Pro</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"animate.html\">Adobe Animate</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Microsoft Office 2016</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MS Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"word.html\">Gallery<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://ethansanjurjo.github.io/Documents/Ethan Sanjurjo Discuss it 6.pdf\" target=\"_blank\">Discuss it&nbsp;<br></a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"powerpoint.html\">MS PowerPoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"excel.html\">MS Excel</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123d.html\" aria-expanded=\"false\">123D Design</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"certifications.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Photoshop</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Resume</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">REFERENCES</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Teacher Letters</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher 4</a></div></div></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">Buy</a></li>"
         },
         {
@@ -2393,14 +2393,14 @@
           "_anchor": "ext_menu-r",
           "_params": {
             "bgColor": "#000000",
-            "fontSize": 0.75,
+            "fontSize": "0.75",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": true
           },
@@ -2420,7 +2420,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ethan Sanjurjo</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Introduction.html\"><p>INTRODUCTION</p></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"photoshop.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Photoshop</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Gallery</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premierepro.html\">Adobe Premiere Pro</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"animate.html\">Adobe Animate</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Microsoft Office 2016</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MS Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"word.html\">Gallery<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://ethansanjurjo.github.io/Documents/Ethan Sanjurjo Discuss it 6.pdf\" target=\"_blank\">Discuss it&nbsp;<br></a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"powerpoint.html\">MS PowerPoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"excel.html\">MS Excel</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123d.html\" aria-expanded=\"false\">123D Design</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"certifications.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Photoshop</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Resume</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">REFERENCES</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Teacher Letters</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher 4</a></div></div></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">Buy</a></li>"
         },
         {
@@ -2557,14 +2557,14 @@
           "_anchor": "ext_menu-v",
           "_params": {
             "bgColor": "#000000",
-            "fontSize": 0.75,
+            "fontSize": "0.75",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": true
           },
@@ -2584,7 +2584,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ethan Sanjurjo</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Introduction.html\"><p>INTRODUCTION</p></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"photoshop.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Photoshop</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Gallery</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premierepro.html\">Adobe Premiere Pro</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"animate.html\">Adobe Animate</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Microsoft Office 2016</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MS Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"word.html\">Gallery<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://ethansanjurjo.github.io/Documents/Ethan Sanjurjo Discuss it 6.pdf\" target=\"_blank\">Discuss it&nbsp;<br></a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"powerpoint.html\">MS PowerPoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"excel.html\">MS Excel</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123d.html\" aria-expanded=\"false\">123D Design</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"certifications.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Photoshop</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Resume</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">REFERENCES</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Teacher Letters</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher 4</a></div></div></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">Buy</a></li>"
         },
         {
@@ -2870,14 +2870,14 @@
           "_anchor": "ext_menu-y",
           "_params": {
             "bgColor": "#000000",
-            "fontSize": 0.75,
+            "fontSize": "0.75",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": true
           },
@@ -2897,7 +2897,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ethan Sanjurjo</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Introduction.html\"><p>INTRODUCTION</p></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"photoshop.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Photoshop</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Gallery</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premierepro.html\">Adobe Premiere Pro</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"animate.html\">Adobe Animate</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Microsoft Office 2016</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MS Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"word.html\">Gallery<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://ethansanjurjo.github.io/Documents/Ethan Sanjurjo Discuss it 6.pdf\" target=\"_blank\">Discuss it&nbsp;<br></a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"powerpoint.html\">MS PowerPoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"excel.html\">MS Excel</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123d.html\" aria-expanded=\"false\">123D Design</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"certifications.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Photoshop</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Resume</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">REFERENCES</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Teacher Letters</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher 4</a></div></div></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">Buy</a></li>"
         },
         {
@@ -3187,14 +3187,14 @@
           "_anchor": "ext_menu-2o",
           "_params": {
             "bgColor": "#000000",
-            "fontSize": 0.75,
+            "fontSize": "0.75",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": true
           },
@@ -3214,7 +3214,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ethan Sanjurjo</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Introduction.html\"><p>INTRODUCTION</p></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"photoshop.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Photoshop</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Gallery</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premierepro.html\">Adobe Premiere Pro</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"animate.html\">Adobe Animate</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Microsoft Office 2016</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MS Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"word.html\">Gallery<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://ethansanjurjo.github.io/Documents/Ethan Sanjurjo Discuss it 6.pdf\" target=\"_blank\">Discuss it&nbsp;<br></a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"powerpoint.html\">MS PowerPoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"excel.html\">MS Excel</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123d.html\" aria-expanded=\"false\">123D Design</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"certifications.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Photoshop</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Resume</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">REFERENCES</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Teacher Letters</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher 4</a></div></div></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">Buy</a></li>"
         },
         {
