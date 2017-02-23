@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "EthanSanjurjo.com",
-    "currentPage": "animate.html",
+    "currentPage": "illustrator.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -351,7 +351,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong>Address</strong><br>\n3041 Sw 112 ave <br>\n33165 miami, FL<br><br><br>\n<strong>Contacts</strong><br>\nEmail: Ethansanjurjo@gmail.com<br>Phone: (786)-520-7956<br>\nFax: +1 (0) 000 0000 002",
+          "text1": "<strong>Address</strong><br>\n3041 Sw 112 ave <br>\n33165 miami, FL<br><br><br>\n<strong>Contacts</strong><br>\nEmail: Ethansanjurjo@gmail.com<br>Phone: (786)-520-7956<br><br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://mas.dadeschools.net/\">Mas.dadeschools.net</a></li></ul>",
           "form": {
             "title": "MESSAGE",
@@ -998,8 +998,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/ethan-sanjurjo-stormtrooper-body-art-2-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ethan-sanjurjo-stormtrooper-body-art-2-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ethan-sanjurjo-stormtrooper-body-art-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ethan-sanjurjo-stormtrooper-body-art-2000x2000.jpg",
                 "caption": "StormTrooper Body Art",
                 "active": false
               },
@@ -1008,10 +1008,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/postcard-ethan-2-2000x1499-800x599.jpg",
-                "image": "@PROJECT_PATH@/assets/images/postcard-ethan-2-2000x1499.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/postcard-ethan-2000x654-800x261.jpg",
+                "image": "@PROJECT_PATH@/assets/images/postcard-ethan-2000x654.jpg",
                 "caption": "MDCPS Logo Redesign",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Responsive",
@@ -1031,7 +1031,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/ethan-sanjujro-magnet-banner-2-2000x515-800x206.jpg",
                 "image": "@PROJECT_PATH@/assets/images/ethan-sanjujro-magnet-banner-2-2000x515.jpg",
                 "caption": "Magnet Tron Banner",
-                "active": true
+                "active": false
               }
             ],
             "spacing": "0",
