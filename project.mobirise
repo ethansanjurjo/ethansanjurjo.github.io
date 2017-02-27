@@ -132,7 +132,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/airport92915-copy-2000x1333-51.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/dark-background-tumblr-wallpaper-2000x1125.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -369,7 +369,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#000000"
           },
-          "text1": "<strong>Address</strong><br>\n3041 Sw 112 ave <br>\n33165 miami, FL<br><br><br>\n<strong>Contacts</strong><br>\nEmail: Ethansanjurjo@gmail.com<br>Phone: (786)-520-7956<br><br>",
+          "text1": "<strong>Address</strong><br>\n3041 Sw 112 ave <br>\n33165 miami, FL<br><br><br>\n<strong>Contacts</strong><br>\nEmail: Ethansanjurjo@gmail.com<br>Phone: (786)-520-7956<br>\nFax: +1 (0) 000 0000 002",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://mas.dadeschools.net/\">Mas.dadeschools.net</a></li></ul>",
           "form": {
             "title": "MESSAGE",
