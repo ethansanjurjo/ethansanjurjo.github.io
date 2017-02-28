@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 124,
+    "uniqCompNum": 125,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -127,7 +127,7 @@
             "Theme"
           ],
           "_name": "header1",
-          "_anchor": "header1-2d",
+          "_anchor": "header1-3g",
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
@@ -141,14 +141,14 @@
             "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": 0.5,
-            "overlayColor": "#000000",
+            "overlayColor": "#000",
             "contentAlign": "center",
             "showTitle": true,
             "showText": true,
             "showButtons": false
           },
           "title": "Ethan Sanjurjo",
-          "text": "\"There's simply no substitute for experience in terms of aviation safety.\"&nbsp;<br>- Captain Chesley Sullenberger<br><br>",
+          "text": "\"There's simply no substitute for experience in terms of aviation safety.\" <br>- Captain Chesley Sullenberger<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
@@ -204,7 +204,7 @@
             "showTitle": true,
             "showCaption": true
           },
-          "title": "BACKGROUND VIDEO",
+          "title": "",
           "caption": ""
         },
         {
