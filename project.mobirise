@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "EthanSanjurjo.com",
-    "currentPage": "photoshop.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1029,7 +1029,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/postcard-ethan-2000x654-800x261.jpg",
                 "image": "@PROJECT_PATH@/assets/images/postcard-ethan-2000x654.jpg",
                 "caption": "MDCPS Logo Redesign",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsive",
@@ -1050,6 +1050,16 @@
                 "image": "@PROJECT_PATH@/assets/images/ethan-sanjujro-magnet-banner-2-2000x515.jpg",
                 "caption": "Magnet Tron Banner",
                 "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ethan-sanjurjo-doodle-4-google-2000x800-800x320.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ethan-sanjurjo-doodle-4-google-2000x800.jpg",
+                "caption": "MDCPS Logo Redesign",
+                "active": true
               }
             ],
             "spacing": "0",
@@ -1215,7 +1225,7 @@
               "src": "@PROJECT_PATH@/assets/images/website-logo-128x128-89.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
