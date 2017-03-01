@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "EthanSanjurjo.com",
-    "currentPage": "index.html",
+    "currentPage": "photoshop.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1008,7 +1008,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/ethan-sanjurjo-crossing-into-the-future-final-2-2000x1499-800x599.jpg",
                 "image": "@PROJECT_PATH@/assets/images/ethan-sanjurjo-crossing-into-the-future-final-2-2000x1499.jpg",
-                "caption": "Type caption here",
+                "caption": "Crossing Into the Future Illusion&nbsp;",
                 "active": false
               },
               {
