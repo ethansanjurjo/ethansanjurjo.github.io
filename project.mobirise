@@ -163,7 +163,7 @@
           "_name": "header3",
           "_anchor": "header3-3j",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "1",
             "bgColor": "#4d4c4c",
             "showMeta": false
