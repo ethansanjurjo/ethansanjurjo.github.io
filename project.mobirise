@@ -148,7 +148,7 @@
             "showButtons": true
           },
           "title": "Ethan Sanjurjo",
-          "text": "\"There's simply no substitute for experience in terms of aviation safety.\" <br>- Captain Chesley Sullenberger<br>",
+          "text": "\"There's simply no substitute for experience in terms of aviation safety.\" <br>- Captain Chesley Sullenberger.<br>",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"Introduction.html\" data-toolbar=\"-mbrBtnMove\">Introduction</a>"
         },
         {
