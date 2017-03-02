@@ -1144,7 +1144,7 @@
           "_name": "contacts4",
           "_anchor": "contacts4-37",
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
@@ -1563,7 +1563,7 @@
           "_name": "contacts4",
           "_anchor": "contacts4-37",
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
@@ -1877,7 +1877,7 @@
           "_name": "contacts4",
           "_anchor": "contacts4-37",
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
@@ -2190,7 +2190,7 @@
           "_name": "contacts4",
           "_anchor": "contacts4-37",
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
@@ -2503,7 +2503,7 @@
           "_name": "contacts4",
           "_anchor": "contacts4-37",
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
@@ -2816,7 +2816,7 @@
           "_name": "contacts4",
           "_anchor": "contacts4-37",
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
@@ -3129,7 +3129,7 @@
           "_name": "contacts4",
           "_anchor": "contacts4-37",
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
@@ -3421,7 +3421,7 @@
               "name": "spotify",
               "family": "socicon",
               "active": true,
-              "link": "index.html#features6-1g",
+              "link": "Introduction.html#features6-2s",
               "size": 0,
               "color": "#000000",
               "newWindow": false
@@ -3438,7 +3438,7 @@
               "name": "telegram",
               "family": "socicon",
               "active": true,
-              "link": "index.html#features6-1g",
+              "link": "Introduction.html#features6-2s",
               "size": 0,
               "color": "#000000",
               "newWindow": false
@@ -3455,7 +3455,7 @@
               "name": "mail",
               "family": "socicon",
               "active": true,
-              "link": "index.html#features6-1g",
+              "link": "Introduction.html#features6-2s",
               "size": "",
               "color": "#000000",
               "newWindow": false
@@ -3472,7 +3472,7 @@
               "name": "chrome",
               "family": "socicon",
               "active": true,
-              "link": "index.html#features6-1g",
+              "link": "Introduction.html#features6-2s",
               "size": 0,
               "color": "#000000",
               "newWindow": false
@@ -3560,7 +3560,7 @@
           "_name": "contacts4",
           "_anchor": "contacts4-37",
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
