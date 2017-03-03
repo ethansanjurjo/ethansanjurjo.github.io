@@ -2023,7 +2023,7 @@
               "src": "@PROJECT_PATH@/assets/images/website-logo-128x128-89.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
