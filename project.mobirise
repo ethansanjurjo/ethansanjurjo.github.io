@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "EthanSanjurjo.com",
-    "currentPage": "index.html",
+    "currentPage": "premierepro.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -240,7 +240,7 @@
           "_anchor": "header3-3l",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgColor": "#4d4c4c",
             "showMeta": false
           },
@@ -1707,7 +1707,7 @@
               "src": "@PROJECT_PATH@/assets/images/website-logo-128x128-89.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1780,8 +1780,8 @@
           ],
           "_name": "gallery2",
           "_params": {
-            "paddingTop": 4,
-            "paddingBottom": 4,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "images": [
               {
                 "tags": "Awesome",
@@ -1801,16 +1801,17 @@
                 "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
                 "caption": "60's School Show Civil Rights",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=XMaH8u_hBBs&t=1s",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-03-03-08-07-54.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": true
               },
               {
                 "tags": "Animated",
@@ -1819,7 +1820,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Awesome",
