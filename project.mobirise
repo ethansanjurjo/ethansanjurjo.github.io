@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "EthanSanjurjo.com",
-    "currentPage": "premierepro.html",
+    "currentPage": "photoshop.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
     },
     "versionFirst": "3.10.4",
     "uniqCompNum": 132,
-    "versionPublish": "3.11.1"
+    "versionPublish": "3.10.5"
   },
   "pages": {
     "index.html": {
@@ -1369,8 +1369,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/ethan-sanjurjo-rd-1-2000x2400-800x960.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ethan-sanjurjo-rd-1-2000x2400.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/time-lapse-1-2000x2400-800x960.jpg",
+                "image": "@PROJECT_PATH@/assets/images/time-lapse-1-2000x2400.jpg",
                 "caption": "Painting Time-Lapse 1",
                 "active": false
               },
@@ -1379,8 +1379,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/ethan-sanjurjo-rd-3-2000x2400-800x960.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ethan-sanjurjo-rd-3-2000x2400.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/time-lapse-2-2000x2400-800x960.jpg",
+                "image": "@PROJECT_PATH@/assets/images/time-lapse-2-2000x2400.jpg",
                 "caption": "Painting Time-Lapse 2",
                 "active": false
               },
@@ -1389,8 +1389,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/ethan-sanjurjo-rd-4-2000x2400-800x960.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ethan-sanjurjo-rd-4-2000x2400.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/time-lapse-3-2000x2400-800x960.jpg",
+                "image": "@PROJECT_PATH@/assets/images/time-lapse-3-2000x2400.jpg",
                 "caption": "Painting Time-Lapse 3",
                 "active": false
               },
@@ -1399,46 +1399,90 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-                "caption": "Coming Soon&nbsp;",
-                "active": true
+                "thumb": "@PROJECT_PATH@/assets/images/time-lapse-4-2000x2400-800x960.jpg",
+                "image": "@PROJECT_PATH@/assets/images/time-lapse-4-2000x2400.jpg",
+                "caption": "Painting Time-Lapse 4",
+                "active": false
               },
               {
                 "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-                "caption": "Coming Soon&nbsp;"
+                "thumb": "@PROJECT_PATH@/assets/images/time-lapse-5-2000x2400-800x960.jpg",
+                "image": "@PROJECT_PATH@/assets/images/time-lapse-5-2000x2400.jpg",
+                "caption": "Painting Time-Lapse 5",
+                "active": false
               },
               {
                 "tags": "Beautiful",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
-                "caption": "Coming Soon&nbsp;"
+                "thumb": "@PROJECT_PATH@/assets/images/time-lapse-6-2000x2400-800x960.jpg",
+                "image": "@PROJECT_PATH@/assets/images/time-lapse-6-2000x2400.jpg",
+                "caption": "Painting Time-Lapse 6",
+                "active": false
               },
               {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-                "caption": "Coming Soon&nbsp;"
+                "thumb": "@PROJECT_PATH@/assets/images/time-lapse-7-2000x2400-2-800x960.jpg",
+                "image": "@PROJECT_PATH@/assets/images/time-lapse-7-2000x2400-2.jpg",
+                "caption": "Painting Time-Lapse 7",
+                "active": false
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "caption": "Coming Soon&nbsp;"
+                "thumb": "@PROJECT_PATH@/assets/images/time-lapse-8-2000x2400-800x960.jpg",
+                "image": "@PROJECT_PATH@/assets/images/time-lapse-8-2000x2400.jpg",
+                "caption": "Painting Time-Lapse 8",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/time-lapse-9-2000x2400-800x960.jpg",
+                "image": "@PROJECT_PATH@/assets/images/time-lapse-9-2000x2400.jpg",
+                "caption": "Painting Time-Lapse 9",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/time-lapse-10-2000x2400-800x960.jpg",
+                "image": "@PROJECT_PATH@/assets/images/time-lapse-10-2000x2400.jpg",
+                "caption": "Painting Time-Lapse 10",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/time-lapse-11-2000x2400-800x960.jpg",
+                "image": "@PROJECT_PATH@/assets/images/time-lapse-11-2000x2400.jpg",
+                "caption": "Painting Time-Lapse 11",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/time-lapse-12-2000x2400-800x960.jpg",
+                "image": "@PROJECT_PATH@/assets/images/time-lapse-12-2000x2400.jpg",
+                "caption": "Painting Time-Lapse Final",
+                "active": true
               }
             ],
             "spacing": "0",
